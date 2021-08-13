@@ -2,6 +2,7 @@
 
 ## MEMBERS 
 - ASWIN
+- MANSI
 
 ## ROLES AND WORK
 
